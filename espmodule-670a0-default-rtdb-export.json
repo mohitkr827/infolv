@@ -1,0 +1,29 @@
+{
+  "roomdata" : {
+    "room1" : {
+      "id" : "room1",
+      "room" : "VK301",
+      "status" : "Vacant"
+    },
+    "room2" : {
+      "id" : "room2",
+      "room" : "VK302",
+      "status" : "Occupied"
+    },
+    "room3" : {
+      "id" : "room3",
+      "room" : "VK303",
+      "status" : "Vacant"
+    },
+    "room4" : {
+      "id" : "room4",
+      "room" : "VK304",
+      "status" : "Occupied"
+    }
+  }
+}
+
+
+
+
+
