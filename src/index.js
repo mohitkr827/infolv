@@ -2,14 +2,7 @@ import { initializeApp } from 'firebase/app';
 import { getDatabase, ref, child, onValue, get } from 'firebase/database';
 
 const firebaseApp=initializeApp({
-    apiKey: 'AIzaSyChAoxN5jVMNNhxZHnzT9-AyIe-ubqoBx',
-    authDomain: "espmodule-670a0.firebaseapp.com",
-    databaseURL: 'https://espmodule-670a0-default-rtdb.asia-southeast1.firebasedatabase.app',
-    projectId: "espmodule-670a0",
-    storageBucket: "espmodule-670a0.appspot.com",
-    messagingSenderId: "266350947969",
-    appId: "1:266350947969:web:9477763f1d4178c96ea780",
-    measurementId: "G-K4039RZLTL"
+   //Replace with Firebase WebApp Config token
 });
 
 const db = getDatabase(firebaseApp);
